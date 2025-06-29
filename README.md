@@ -1,16 +1,14 @@
 # biometric_login
 
-A new Flutter project.
+This Flutter application allows users to securely log in using their fingerprint via biometric authentication. It leverages the local_auth Flutter package to interact with the device’s built-in biometric sensors. The app checks for biometric availability on the device and prompts users to authenticate using their fingerprint before granting access to the main content.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+Fingerprint authentication using device biometrics
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Fallback to passcode or PIN (optional)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Secure session management
+
+Simple, clean UI with Flutter widgets
