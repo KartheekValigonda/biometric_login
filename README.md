@@ -12,3 +12,5 @@ Fallback to passcode or PIN (optional)
 Secure session management
 
 Simple, clean UI with Flutter widgets
+
+![Kartheek_flutter_assignment_](https://github.com/user-attachments/assets/8960b23f-96db-4731-8802-85fe259e105b)
