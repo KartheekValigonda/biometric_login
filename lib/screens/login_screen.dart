@@ -181,7 +181,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         width: 20,
                         child: CircularProgressIndicator(strokeWidth: 2),
                       )
-                          : const Text('Biometric Login', style: TextStyle(fontSize: 16, color: Colors.white),),
+                          : const Text('Use Fingerprint', style: TextStyle(fontSize: 16, color: Colors.white),),
                     ),
                   ],
                 ),
